@@ -86,7 +86,7 @@ Error generating stack: `+o.message+`
       }
     }
   }
-`,Nm="/assets/logo-ignite.45e013d3.svg";var Tm=U.exports.createContext({color:"currentColor",size:"1em",weight:"regular",mirrored:!1}),nl=function(t,n,r){var i=r.get(t);return i?i(n):(console.error('Unsupported icon weight. Choose from "thin", "light", "regular", "bold", "fill", or "duotone".'),null)};function Pc(e,t){if(e==null)return{};var n={},r=Object.keys(e),i,o;for(o=0;o<r.length;o++)i=r[o],!(t.indexOf(i)>=0)&&(n[i]=e[i]);return n}var rl={exports:{}},il={};/**
+`,Nm="/Ignite-Nova-Trillha/assets/logo-ignite.45e013d3.svg";var Tm=U.exports.createContext({color:"currentColor",size:"1em",weight:"regular",mirrored:!1}),nl=function(t,n,r){var i=r.get(t);return i?i(n):(console.error('Unsupported icon weight. Choose from "thin", "light", "regular", "bold", "fill", or "duotone".'),null)};function Pc(e,t){if(e==null)return{};var n={},r=Object.keys(e),i,o;for(o=0;o<r.length;o++)i=r[o],!(t.indexOf(i)>=0)&&(n[i]=e[i]);return n}var rl={exports:{}},il={};/**
  * @license React
  * react-jsx-runtime.production.min.js
  *
